@@ -1,0 +1,2 @@
+#docker ansible_host=172.31.44.72
+localhost ansible_host=127.0.0.1
